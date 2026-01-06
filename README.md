@@ -43,4 +43,3 @@ Automation test difokuskan pada fungsi utama yang paling sering digunakan, yaitu
 
 Rama Dutasmara
 
-## 🧪 Test Structure
